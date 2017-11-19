@@ -1,0 +1,14 @@
+﻿<mui:ModernWindow x:Class="SpireDocTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpireDocTest"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  Style="{StaticResource BlankWindow}"
+        mc:Ignorable="d"
+                  xmlns:archivepreviewer="clr-namespace:ArchivePreviewer;assembly=ArchivePreviewer"
+                  Title="MainWindow" Height="350" Width="525">
+
+    <archivepreviewer:ArchiveViewer FilePath="C:\Users\ostap\Documents\Visual Studio 2017\Projects\SpireDocTest\ArchivePreviewerTest\Resources\PanoplyWin-4.8.4.zip"></archivepreviewer:ArchiveViewer>
+</mui:ModernWindow>

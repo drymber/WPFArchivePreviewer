@@ -1,0 +1,13 @@
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\bin\Debug\ArchivePreviewer.dll
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\bin\Debug\ArchivePreviewer.pdb
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.csprojResolveAssemblyReference.cache
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchiveViewer.g.cs
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer_MarkupCompile.cache
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer_MarkupCompile.lref
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchiveViewer.baml
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.g.resources
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.Properties.Resources.resources
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.csproj.GenerateResource.Cache
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.dll
+C:\Users\ostap\Documents\Visual Studio 2017\Projects\ArchivePreviewer\ArchivePreviewer\obj\Debug\ArchivePreviewer.pdb
